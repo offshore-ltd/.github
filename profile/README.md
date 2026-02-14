@@ -40,11 +40,11 @@ Offshore Cash breaks the on-chain link between sender and receiver using **ZK-SN
 
 | Repo | Description |
 |:-----|:------------|
-| [`contracts`](https://github.com/offshorecash/contracts) | Solidity smart contracts, ZK circuits, deploy scripts, tests |
-| [`app`](https://github.com/offshorecash/app) | Frontend application (Next.js) |
-| [`sdk`](https://github.com/offshorecash/sdk) | TypeScript SDK — Poseidon, Merkle tree, proof generation |
-| [`relayer`](https://github.com/offshorecash/relayer) | Relay service (Bull + Redis, multi-worker) |
-| [`docs`](https://github.com/offshorecash/docs) | Protocol documentation (VitePress) |
+| [`contracts`](https://github.com/offshore-ltd/contracts) | Solidity smart contracts, ZK circuits, deploy scripts, tests |
+| [`app`](https://github.com/offshore-ltd/app) | Frontend application (Next.js) |
+| [`sdk`](https://github.com/offshore-ltd/sdk) | TypeScript SDK — Poseidon, Merkle tree, proof generation |
+| [`relayer`](https://github.com/offshore-ltd/relayer) | Relay service (Bull + Redis, multi-worker) |
+| [`docs`](https://github.com/offshore-ltd/docs) | Protocol documentation (VitePress) |
 
 ## Tech Stack
 
